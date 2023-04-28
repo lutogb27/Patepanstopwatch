@@ -1,0 +1,50 @@
+
+
+.watch{
+     text-align: center;
+     font-size: 50px;
+}
+
+#time{
+     text-align: center;
+     font-weight: bold;
+     font-size: 50px;
+     padding: 15px;
+}
+
+#start{
+     background-color: #C0C0C0;
+     border: 2px solid #000000;
+     border-radius: 5px;
+     font-size: 24px;
+     padding: 10px;
+     margin-right: 10px;
+     width: 120px;
+     text-align: center;
+}
+#stop {
+     background-color: #C0C0C0;
+     border: 2px solid #000000;
+     border-radius: 5px;
+     font-size: 24px;
+     padding: 10px;
+     margin-right: 10px;
+     text-align: center;
+     width: 120px;
+}
+#reset {
+     background-color: #C0C0C0;
+     border: 2px solid #000000;
+     border-radius: 5px;
+     font-size: 24px;
+     padding: 10px;
+     text-align: center;
+     width: 120px;
+}
+#start:hover { cursor:pointer }
+#stop:hover { cursor:pointer }
+#reset:hover { cursor:pointer } 
+
+.buttons{
+     text-align: center;
+}
